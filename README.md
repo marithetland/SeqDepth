@@ -20,7 +20,7 @@ Calculate average coverage (sequencing depth) and standard deviation for Illumin
 
 For each sample, paired-end reads (preferably trimmed) and their assembled fasta-file must be provided. Please ensure all three files have the same prefix, e.g: "sample_1.fastq.gz" "sample_2.fastq.gz" and "sample.fasta".
 
-``` bash
+``` python
 SeqDepth: Calculate the sequencing depth (overall coverage) and standard deviation of trimmed FASTQ-files. 
 
 Usage: seqDepth.py [-h] [-v] -r READS [READS ...] -a ASSEMBLIES
