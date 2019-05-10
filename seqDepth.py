@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env python3
+
 import os, sys, re
 import logging, time
 import glob
