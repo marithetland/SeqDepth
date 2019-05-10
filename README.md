@@ -4,10 +4,10 @@ Calculate average coverage (sequencing depth) and standard deviation for Illumin
 
 ## Table of Contents
 
-[Requirements](##Requirements)  
-[Usage](##Usage)  
+[Requirements](#Requirements)  
+[Usage](#Usage)  
 [Example command](#example-command)  
-[Output](##Output)  
+[Output](#Output)  
 
 ## Requirements
 
